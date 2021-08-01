@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
