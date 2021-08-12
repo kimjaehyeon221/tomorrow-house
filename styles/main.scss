@@ -1,6 +1,7 @@
 @import './constants/colors';
 @import './constants/typography';
 @import './constants/breakpoints';
+@import './constants/grids';
 
 @import './base/fonts';
 @import './base/nomalize';
@@ -13,5 +14,7 @@
 
 @import './modules/tags';
 @import './modules/avartars';
+@import './modules/star-ratings';
+@import './modules/prices';
 
 @import './layouts/grids';
